@@ -1,6 +1,5 @@
 # Xiaomi AirFryer
 
-[!["Buy Me A Coffee"](https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg)](https://www.buymeacoffee.com/tsunglung)
 
 This is a custom component for home assistant to integrate the Xiaomi AirFryer.
 
@@ -244,10 +243,3 @@ Start cooking target temperature.
 | Service data attribute    | Optional | Description                                                          |
 |---------------------------|----------|----------------------------------------------------------------------|
 | `target_temperature`      |       no | Target Temperature data .                  |
-
-
-Buy me a Coffee
-
-|  LINE Pay | LINE Bank | JKao Pay |
-| :------------: | :------------: | :------------: |
-|![LINE Pay](linepay.jpg "LINE Pay")|![Line Bank](linebank.jpg "Line Bank") |![Jko Pay](jkopay.jpg "Jko Pay") |
